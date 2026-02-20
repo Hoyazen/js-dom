@@ -1,5 +1,15 @@
 # Manipulation de DOM en Javascript
 
+## Introduction
+
+Cette série d'exercices vous permettra de vous entraîner à la manipulation de [DOM](https://fr.wikipedia.org/wiki/Document_Object_Model) en JavaScript.
+
+Du code à compléter et disponible dans le dossier `src` de ce dépôt.
+
+Vous pouvez "forker" le dépôt afin de faire une copie dans votre espace personnel.
+
+---
+
 ## Afficheur de date
 
 Complétez le code fourni sur le dépôt Git, vous aurez à modifier les fichiers "date-dom.html" et "date-dom.js".
